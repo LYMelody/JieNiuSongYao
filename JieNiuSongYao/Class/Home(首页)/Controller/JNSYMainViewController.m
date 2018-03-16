@@ -65,6 +65,9 @@
     //统计未读消息
     [self setUpUnreadMessageCount];
     
+    
+    //测试下Git
+    
 }
 
 //初始化定位
